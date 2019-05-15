@@ -1,0 +1,17 @@
+{
+  "name": "ws-reg-form",
+  "version": "1.0.0",
+  "description": "A form generator for Weiss Schwarz tournament deck registration.",
+  "main": "index.js",
+  "dependencies": {
+    "pdf-form-fill": "^0.2.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ccondeluci",
+  "license": "ISC"
+}
